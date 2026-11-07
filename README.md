@@ -23,5 +23,5 @@ Software development student at **42 Lisboa** who swapped a traditional universi
 
 ## 📫 Get in touch
 - 📧 [danielddamiba@gmail.com](mailto:danielddamiba@gmail.com)
-- 💼 [LinkedIn]((https://www.linkedin.com/in/daniel-damiba-25775528a/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-damiba-25775528a/)
 - 📍 Lisbon, Portugal
